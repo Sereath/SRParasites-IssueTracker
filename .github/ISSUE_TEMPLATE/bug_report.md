@@ -6,6 +6,9 @@ labels: ''
 assignees: ''
 
 ---
+**Game logs**
+Both `latest.log` and `debug.log`
+Upload here: https://gist.github.com/
 
 **Crash report**
 If applicable, upload it here: https://gist.github.com/.
