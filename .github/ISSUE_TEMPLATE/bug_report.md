@@ -32,7 +32,7 @@ Any clips would be the best kind of help as well.
  - SRP version:
  - Launcher:
  - Assigned RAM:
- - Mod list (share list here https://gist.github.com/):
+ - Mod list (upload it here https://gist.github.com/):
  - Forge version:
  - OS:
 
