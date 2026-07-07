@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Crash report**
+If applicable, upload it here: https://gist.github.com/.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
