@@ -11,7 +11,7 @@ Both `latest.log` and `debug.log`
 Upload here: https://gist.github.com/
 
 **Crash report**
-If applicable, upload it here: https://gist.github.com/.
+If applicable, upload it here: https://gist.github.com/
 
 **Describe the bug**
 A clear and concise description of what the bug is.
